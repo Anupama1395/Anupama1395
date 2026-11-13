@@ -65,4 +65,4 @@ Singh, A., Bhandari, S., Raheja, A., & Kosaraju, S. C.
 
 I am interested in machine-learning engineering, computer vision, NLP, applied AI research, and research-to-production systems.
 
-[LinkedIn](https://www.linkedin.com/in/anupama-singh/) · [Portfolio](https://anupama1395.github.io/) · [Email](mailto:anupamasingh47@gmail.com)
+ · [Email](mailto:anupamasingh47@gmail.com)
