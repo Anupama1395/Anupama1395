@@ -128,9 +128,11 @@ Singh, A., Bhandari, S., Raheja, A., & Kosaraju, S. C.
 
 ## 📊 GitHub Stats
 
-![Anupama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anupama1395&show_icons=true&hide_border=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Anupama1395&show_icons=true&theme=transparent&hide_border=true" alt="Anupama's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anupama1395&layout=compact&theme=transparent&hide_border=true" alt="Anupama's Most Used Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anupama1395&layout=compact&hide_border=true)
 
 ## 🤝 Connect
 
