@@ -138,7 +138,4 @@ Singh, A., Bhandari, S., Raheja, A., & Kosaraju, S. C.
 
 I'm interested in opportunities involving machine learning engineering, computer vision, NLP, and applied AI research.
 
-- 🌐 [Personal Portfolio](https://anupama1395.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/anupama-singh/)
-- 💻 [GitHub Repositories](https://github.com/Anupama1395?tab=repositories)
 - 📧 [Email](mailto:anupamasingh47@gmail.com)
