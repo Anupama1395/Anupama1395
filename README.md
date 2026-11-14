@@ -54,12 +54,12 @@ Singh, A., Bhandari, S., Raheja, A., & Kosaraju, S. C.
 - Making research workflows reproducible and deployable
 - Preparing ML systems for real-world users and constrained environments
 
-## GitHub activity
+<!-- ## GitHub activity
 
-<p align="center">
+''' <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=Anupama1395&show_icons=true&theme=transparent&hide_border=true" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anupama1395&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
-</p>
+</p>'''' -->
 
 ## Let's connect
 
